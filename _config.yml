@@ -1,0 +1,10 @@
+# basic options
+title: nananja jeans
+author: self
+email: not configured
+description: blog
+twitter_username: nananja_jeans
+github_username:  nananjajeans
+
+# Build settings
+markdown: kramdown
