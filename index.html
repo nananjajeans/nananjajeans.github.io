@@ -1,28 +1,45 @@
- <!DOCTYPE html>
-<html>
-<head>
-<title>Hi!</title>
-</head>
-<body>
+---
+layout: default
+---
 
-<h1>What is this?</h1>
-<p>This is what. I will add some content as soon as..i write something!.</p>
- 
-<h2>04/10/2018</h2>
- 
- <p>Yesterday i read about Mandelbrots fractals and found it interesting. I had written a piece code a few months, may be years? before to find out if these numbers do have a recurring pattern.</p>
+<div id="home">
+  <h1>{{ site.title }}</h1>
+  <hr />
 
- <p> The first thing that came in my mind while reading about these Mandelbrot fractals were prime numbers.<p>
- 
- <p> I had known about closed feedback loops for a while now and was wondering if this is a recurring pattern in itself.</p>
- 
- <p> Oh thou Mandelbrot fractals!</p>
- 
- <p> Totally unrelated, i am now working on a beard trimmer conundrum in my liesure time, similar to the jackfruit chips conundrum i wrote about an year ago.</p>
- 
- <p> I do not know anything about website design, so here it is, an html page without fancy menus and graphics. I think i should patent this design</p>
- 
- <p> I am about to leave the office. Ciao!<p>
+  <ol class="posts">
+    {% for post in paginator.posts %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a> &raquo; <i><span>{{ post.date | date_to_string }}</span></i></li>
+    {% endfor %}
+  </ol>
 
- 
- </html> 
+  <!-- Pagination links -->
+  {% if paginator.total_pages > 1 %}
+    <ul class="pagination pagination-sm">
+      {% if paginator.previous_page %}
+        <li><a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo;</a></li>
+      {% else %}
+        <li class="disabled"><span aria-hidden="true">&laquo;</span></li>
+      {% endif %}
+
+      <li><a href="/">First</a></li>
+
+      {% for page in (1..paginator.total_pages) %}
+        {% if page == paginator.page %}
+          <li class="active"><a>{{ page }}<span class="sr-only">(current)</span></a></li>
+        {% elsif page == 1 %}
+          <li><a href="/">{{ page }}</a></li>
+        {% else %}
+          <li><a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a></li>
+        {% endif %}
+      {% endfor %}
+
+      <li><a href="/page/{{ paginator.total_pages }}/">Last</a></li>
+
+      {% if paginator.next_page %}
+        <li><a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">&raquo;</a></li>
+      {% else %}
+        <li class="disabled"><span>&raquo;</span></li>
+      {% endif %}
+    </ul>
+  {% endif %}
+</div><!-- end #home -->
