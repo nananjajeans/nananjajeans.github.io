@@ -1,5 +1,8 @@
-A Pen created at CodePen.io. You can find this one at https://codepen.io/vidhun91/pen/wYGLBG.
+A Pen created at CodePen.io. You can find this one at https://codepen.io/agilBAKA/pen/yJGobo.
 
- Ash and Pikachu from the Gameboy Pokémon games.
+ I've tried to create pixel art Pikachu in pure CSS.
 
-Credits to Kevin Jannis for his [original pen](http://codepen.io/kevinjannis/pen/GyCgn).
+
+
+image reference :
+https://s-media-cache-ak0.pinimg.com/236x/09/a5/03/09a5038219a4519ca7c5d972ae2be77c.jpg 
