@@ -3,7 +3,6 @@ layout: page
 title: About
 permalink: /about/
 ---
+A square peg in a round hole.
 
-I am freelance developer. Currently doing more in backend, focused in Python and Django.
-
-email: agus[at]python.web.id
+Telegram: [at]illogicalfallacy
