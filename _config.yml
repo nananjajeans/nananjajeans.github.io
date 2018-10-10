@@ -1,0 +1,18 @@
+# Site settings
+title: "Illogicalfallacy"
+description: "This is a text only website for posting my thoughts literally about everything in this world."
+version: "0.2"
+size: "20k"
+
+# Build settings
+markdown: kramdown
+
+# Exclude this stuff
+exclude: [node_modules, gulpfile.js, package-lock.json, package.json, Gemfile.lock, Gemfile, README.md]
+
+# Gems
+gems:
+  - jekyll-seo-tag
+
+# Analytics
+ga: UA-42682851-7
