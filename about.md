@@ -1,8 +1,43 @@
 ---
 layout: page
 ---
-_"Fonts, stylesheets, images &amp; javascript? Never heard of them!"_
+_"സിത്തൂര് താണ്ടി നാ കാട്ട്പാടി 
+ജീൻസിനെ സീണ്ടി നാ ഡെഡ്ബോഡി"_ 
+ 
+_ചിന്ന പസങ്ക പാക്കറത് പോഗോ 
+ജീൻസിക്കിട്ടെ വേണ്ടാ ഗോഗോ 
 
-Text Only loads only text. All of that other stuff is great but it makes the internet slooooow. Now imagine you're in an area without adequate internet coverage or in the middle of a natural disaster without access to the internet at all; every kb counts. Text Only showcases websites that can still offer a good experience while being data accessible.
+_സിക്സക്കപ്പുറം സെവൻഡാ 
+ജീൻസുക്കപ്പുറം യെവണ്ടാ 
+"_
 
-Text Only is powered by Jekyll. It takes a bunch of markdown &amp; .yml data and spits out beautiful, unadorned HTML. Quick &amp; easy. If you're interested in that kind of nerd stuff, [check out the source here](https://github.com/joshosbrn/textonly).
+
+T Rajendar:   Sorry for the interruption, this is only my introduction. During the cross examination, you will see my action cum direction  added with perfection. In the name of the witness, you are playing with imitation. That's my conception.
+
+Gautami:      No. That is your assumption.
+
+T Rajendar:   Don't get emotion, irritation. You wait and see my further action.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[check out the source here](https://github.com/joshosbrn/textonly).
