@@ -1,5 +1,3 @@
-# Text Only
-Text Only is a text-only list of text-only websites.
 
 ## How To Contribute
 Text Only accepts submissions in the form of pull requests. If your eyes haven't glazed over yet, I'll assume you're comfortable submitting PRs. Fork this repo and follow the steps below (make sure to swap in your Github username if you're copy/pasting) to submit a new text-only website.
