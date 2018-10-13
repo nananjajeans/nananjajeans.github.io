@@ -4,7 +4,7 @@ layout: page
 
 I usually don't wear watches. But recently i did purchase a watch - a vintage Casio FW 91.
 
-As the name suggests, this gem was introduced way back in 1991, just like me.It's been about 27 years and this watch is still in production. Without any change in design or features, this watch is like the Nintendo GameBoy of digital watches.
+As the name suggests, this gem was introduced way back in 1991. It's been about 27 years and this watch is still in production. Without any change in design or features, this watch is like the Nintendo GameBoy of digital watches.
 
 It has no fancy features or trendy design as most of you might prefer. I love retro designs and wearing this watch takes me back to the 90's. bleep.. bloop.. bleep.. bloop..
 
