@@ -8,7 +8,7 @@ As the name suggests, this gem was introduced way back in 1991. It's been about 
 
 It has no fancy features or trendy design as most of you might prefer. I love retro designs and wearing this watch takes me back to the 90's. bleep.. bloop.. bleep.. bloop..
 
-It is a quartz digital watch that is pretty accurate with a tolerance level of +/- 30 seconds per month. Running on a 3-V Lithium ion cell, this watch is designed to last up to 10 years. In reality with the hourly reminder beep and alarm functions untouched, there are reports of people getting over 14 years of battery life on this one.
+It is a quartz digital watch that is pretty accurate with a tolerance level of +/- 30 seconds per year?. Running on a 3-V Lithium ion cell, this watch is designed to last up to 10 years. In reality with the hourly reminder beep and alarm functions untouched, there are reports of people getting over 14 years of battery life on this one.
 
 Used by Osama to Obama, this watch is populary called the terrorist's watch as they used this watch to be part of home brewed IEDs that will blast after a set timer.
 
