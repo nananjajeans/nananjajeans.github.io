@@ -3,5 +3,4 @@ layout: page
 ---
 
 
-
-     <a href="https://nananjajeans.github.io/amber.html">Amber</a> 
+ <a href="https://illogicalfallacy.com/amber.html">Visit W3Schools</a> 
